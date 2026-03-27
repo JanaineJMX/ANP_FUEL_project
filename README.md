@@ -1,4 +1,4 @@
-#🇧🇷 Brazil Fuel Overview
+## 🇧🇷 Brazil Fuel Overview
 
 Brazil is one of the world’s largest oil producers — yet it still depends on fuel imports.
 This project builds an end-to-end data pipeline using public data from Brazil’s National Petroleum Agency (ANP), applying a Medallion Architecture to transform raw data into actionable insights.
@@ -87,7 +87,7 @@ The refinery equivalent metric estimates the number of standard refineries (90k 
 
 
 
-#👤 Author
+## 👤 Author
 
 Janaine Xavier
 
