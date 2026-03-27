@@ -5,7 +5,7 @@ This project builds an end-to-end data pipeline using public data from Brazil’
 The objective is to quantify and explain this gap: Why is Brazil not self-sufficient in fuels despite its strong oil production?
 
 
-##📊 Project Overview
+## 📊 Project Overview
 
 The project is organized in the following steps:
 - 1️⃣ Extract public data from Brazil’s National Petroleum Agency (ANP) using Python and store the raw files in cloud storage (Volumes) using Spark.
