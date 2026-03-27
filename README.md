@@ -19,7 +19,7 @@ The project is organized in the following steps:
 
 This project follows a Medallion Architecture implemented in Databricks.
 
-![](/Workspace/Users/janaineberardi@gmail.com/ANP_FUEL_project/mermaid-diagram-5.png)
+![](mermaid-diagram-5.png)
 
 
 
@@ -37,7 +37,7 @@ All data is publicly available via ANP open data portal.
 
 The data is modeled using a star schema:
 
-![](/Workspace/Users/janaineberardi@gmail.com/ANP_FUEL_project/mermaid-diagram.png)
+![](mermaid-diagram.png)
 
 ## 📊 Key Metrics
 
@@ -51,7 +51,7 @@ The refinery equivalent metric estimates the number of standard refineries (90k 
 
 [View on Tableau](https://public.tableau.com/app/profile/janaine.xavier/viz/BrazilFuel/BrazilFuelOverview)
 
-![Dashboard Preview](/Workspace/Users/janaineberardi@gmail.com/ANP_FUEL_project/Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## 💡 Key Insights
 
